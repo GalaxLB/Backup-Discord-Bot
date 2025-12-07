@@ -1,0 +1,14 @@
+{
+  "name": "discord-backup-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-backup": "^3.0.0",
+    "discord.js": "^14.13.0",
+    "node-fetch": "^2.7.0"
+  }
+}
