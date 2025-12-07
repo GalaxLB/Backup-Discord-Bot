@@ -1,7 +1,7 @@
 # Discord Backup Bot
 
 Bot de Discord para crear y restaurar backups de servidores.
-Programado en JavaScript usando Node.js
+- Programado en JavaScript usando Node.js
 ## Instalacion
 
 1. Clona el repositorio
